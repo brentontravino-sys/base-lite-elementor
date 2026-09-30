@@ -17,7 +17,7 @@ base-lite Elementor is a lightweight and minimalist WordPress theme that was bui
 
 The theme's main focus is on providing a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. It is optimized for speed and performance, and its simplicity and flexibility make it a great choice for both beginners and experienced website designers.
 
-The theme supports common WordPress features which can be extended using a child-theme. In addition, there are several ways to add custom styles. It can be done from **Elementor**, using a child-theme, or with an external plugin. To customize the theme further, visit [Elementor developers docs](https://developers.elementor.com/docs/hello-elementor-theme/).
+The theme supports common WordPress features which can be extended using a child-theme. In addition, there are several ways to add custom styles. It can be done from **Elementor**, using a child-theme, or with an external plugin.
 
 == Copyright ==
 
@@ -32,6 +32,5 @@ Source: https://fontawesome.com/v4.7.0/
 
 Image for theme screenshot, Copyright BT Vizion pty ltd
 License: CC0 1.0 Universal (CC0 1.0)
-Source: https://stocksnap.io/photo/4B83RD7BV9
 = 1.0.0 - 2018-03-19 =
 * Initial Public Release
